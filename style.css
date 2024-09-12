@@ -1,0 +1,50 @@
+
+
+/*header*/
+a{text-decoration: none; color: #333;}
+.navbar { font-size: 16px;}
+.navbar a{margin: auto;}
+button{background: linear-gradient(300deg, #7cc408 15%, rgb(133 190 47 / 35%) 90%);); border:none; }
+
+
+
+
+/*for headings*/
+h2{ letter-spacing: 2px; }
+
+
+
+/*for grey background and curve*/
+.background {  border-radius: 0px 0px 200px 200px; background: linear-gradient(to top, #49505721, rgba(255, 0, 0, 0));}
+
+
+
+/*cards*/
+.card {margin: auto; box-shadow: 30px 30px 10px rgba(0,0,0,.1);}
+.card1 {background-color: #4950570f;}
+.card3 {background-color: #4950570f;}
+
+
+/*box who we are*/
+.box{ border-radius: 20px; box-shadow: 30px 30px 10px rgba(0,0,0,.1);
+	background: linear-gradient(to right, #4950570f, rgba(255, 0, 0, 0));
+}
+
+.line {color: #7cc408; margin-top: 20px; }
+.dash {border-style: dashed; border-color: grey; border-width: thin; border-radius: 5px; 
+	font-weight: normal; font-size: 18px; color: #333; padding:5px; margin-left: 60px;}
+
+
+/*map section*/
+.map{ background: url(images/map.jpg); background-size: cover; height: 600px; width: auto;  background-position: center;}
+
+
+
+/*footer*/
+.footer {background: linear-gradient(to top, #4950570d, rgba(255, 0, 0, 0)); }
+
+
+
+
+
+
